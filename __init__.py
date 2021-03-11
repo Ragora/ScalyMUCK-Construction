@@ -22,4 +22,4 @@ description = 'This modification implements Construction systems into ScalyMUCK.
 copyright = 'Copyright (c) 2013 Liukcairo'
 author = 'Liukcairo'
 
-from construction import Modification
+from . construction import Modification
